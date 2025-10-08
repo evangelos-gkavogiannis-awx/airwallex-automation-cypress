@@ -1,0 +1,21 @@
+{
+  "name": "airwallex-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^10.0.0",
+    "cypress-testrail": "^2.10.0",
+    "deasync": "^0.1.30",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
